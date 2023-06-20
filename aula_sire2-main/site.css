@@ -1,0 +1,11 @@
+body{
+    background-image: url('fundo.png');
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(108, 77, 77);
+    padding-left: 70px;
+    padding-top: 200px;
+    text-align: center;
+}
